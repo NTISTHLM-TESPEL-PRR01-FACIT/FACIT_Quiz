@@ -1,6 +1,4 @@
-﻿using System;
-
-int points = 0;
+﻿int points = 0;
 Console.WriteLine("Välkommen till Mickes transformers-frågesport!");
 
 // -----------------------------------------------------------------------------
